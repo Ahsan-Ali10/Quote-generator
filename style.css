@@ -1,0 +1,23 @@
+*{
+    background-color: #023e8a;
+}
+
+
+.quote{
+    text-align: center;
+    height: 100vh;
+    color: aliceblue;
+}
+.container{
+    height:300px ;
+    width: 600px;
+    border: 5px solid black;
+    border-radius: 5%;
+    margin: auto;
+    position: relative;
+    top: 60px;
+}
+button{
+    background-color: #AD5D4E;
+    color: white;
+}
